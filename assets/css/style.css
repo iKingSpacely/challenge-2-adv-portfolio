@@ -34,25 +34,40 @@ nav li {
 }
 
 section {
-    width: 75%;
-    margin-left: 20px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 250px;
+    margin-right: 500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #0f3001e0;
     font-style: italic;
     font-weight: bolder;
     font-size: 28px;
     display: flex;
     justify-content: space-between;
-    padding: 5px;
-    
-    
+    padding: 10px;
+   
 }
 
 p {
     color: #3a3a38;
     font-style: normal;
     font-weight: normal;
-    width: 85%;
+    font-family: sans-serif;
+    width: 75%;
     font-size: 24px;
+    text-align: center;
+    border: 2.5px solid black;
+    /* border-left: 2.5px solid black; */
     
+}
+
+.yomn li {
+    display: inline-block;
+    justify-content: space-between;
+    padding: 5px;
+    font-style: italic;
+    background-color: #5c5c57;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    text-decoration: underline;
+    text-align: center;
 }
