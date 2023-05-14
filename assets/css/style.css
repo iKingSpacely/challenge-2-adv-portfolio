@@ -6,7 +6,7 @@
 }
 
 header {
-    padding: 5px;
+    padding: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
     color: #fff;
@@ -16,19 +16,25 @@ header {
     align-items: center;
 }
 
-header nav ul {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-    list-style-type: none;
+h1 {
+    background-color: #5c5c57;
+    padding: 15px;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
 }
 
 nav li {
     display: inline-block;
     justify-content: space-between;
-    box-sizing: border-box;
-    padding: 10px;
+    padding: 5px;
     font-style: italic;
+    background-color: #5c5c57;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
