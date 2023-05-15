@@ -28,6 +28,7 @@ nav li {
     justify-content: space-between;
     padding: 5px;
     font-style: italic;
+    font-size: 22px;
     background-color: #5c5c57;
     border-top-left-radius: 25%;
     border-bottom-right-radius: 25%;
