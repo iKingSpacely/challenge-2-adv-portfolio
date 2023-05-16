@@ -10,4 +10,4 @@
 ![](assets/images/Challenge-2-Adv-Portfolio%20SC.png)
 
 ## Deployed Link
-- 
+- https://ikingspacely.github.io/challenge-2-adv-portfolio/
