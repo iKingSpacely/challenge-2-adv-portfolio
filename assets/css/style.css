@@ -39,8 +39,25 @@ header {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
     font-weight: bold;
+    font-size: 24px
 }
+ .github-mark-white img {
+    height: 200px;
+    margin-right: 1135px;
 
+
+
+ }
+
+ .github-mark-white img:hover {
+    opacity: 0.5;
+ }
+
+
+ 
+/* img {
+    border: 5px solid #4af401e0;
+ } */
 
 h1 {
     background-color: #5c5c57;
@@ -52,7 +69,6 @@ h1 {
 h2 {
     font-size: 30px;
     flex-wrap: wrap;
-    color: rgb(55, 55, 55);
     width: 300px;
     height: 70px;
     border-right: 3px solid;
@@ -98,6 +114,10 @@ p {
     
 }
 
+.work {
+
+}
+
 .contact li {
     display: inline-block;
     justify-content: space-between;
@@ -108,7 +128,7 @@ p {
     border-bottom-right-radius: 25%;
     text-decoration: underline;
     text-align: center;
-    font-size: 18px;
+    font-size: 24px;
 
 }
 
